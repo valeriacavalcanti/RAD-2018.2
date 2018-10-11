@@ -17,3 +17,5 @@ Códigos [RoR](https://rubyonrails.org/) desenvolvidos em sala de aula.
 \# | Data | Projeto | Obsevações
 --- | --- | --- | ---
 01 | 01/10/2018 | Agenda | MVC no Rails
+02 | 11/10/2018 | Agenda | MVC no Rails, Model e Migration
+03 | 11/10/2018 | Fofinho | Agenda com Scaffold
