@@ -19,3 +19,4 @@ Códigos [RoR](https://rubyonrails.org/) desenvolvidos em sala de aula.
 01 | 01/10/2018 | Agenda | MVC no Rails
 02 | 11/10/2018 | Agenda | MVC no Rails, Model e Migration
 03 | 11/10/2018 | Fofinho | Agenda com Scaffold
+04 | 18/10/2018 | Agenda | Helper: collection_select e Helper: path (route)

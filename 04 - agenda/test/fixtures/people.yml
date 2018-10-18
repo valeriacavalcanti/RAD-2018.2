@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  abreviacao: MyString
+  nascimento: 2018-10-18 19:30:44
+
+two:
+  nome: MyString
+  abreviacao: MyString
+  nascimento: 2018-10-18 19:30:44
