@@ -1,7 +1,7 @@
 # **RAD 2018.2**
 [IFPB/JP/SI] Desenvolvimento Rápido para Web - RAD
 
-#### <i class="icon-link"></i> **Sobre**
+#### **Sobre**
 - Instituição: [IFPB Campus João Pessoa](http://www.ifpb.edu.br/campi/campi/joao-pessoa)
 - Curso: [Sistemas para Internet](http://estudante.ifpb.edu.br/cursos/39)
 - Disciplina: [Desenvolvimento Rápido para Web](http://rad.valeriacavalcanti.com.br)
@@ -21,3 +21,12 @@ Códigos [RoR](https://rubyonrails.org/) desenvolvidos em sala de aula.
 03 | 11/10/2018 | Fofinho | Agenda com Scaffold
 04 | 18/10/2018 | Agenda | Helper: collection_select e Helper: path (route)
 05 | 01/11/2018 | Agenda | Helper: collection_select e Helper: path (route)
+06 | 08/11/2018 | IFTech | Aplicação com todos os recursos trabalhados
+
+## **Dicas**
+Atualização do Node.js
+```sh
+$ curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -
+$ sudo apt install nodejs
+
+
