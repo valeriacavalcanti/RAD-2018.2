@@ -22,6 +22,7 @@ Códigos [RoR](https://rubyonrails.org/) desenvolvidos em sala de aula.
 04 | 18/10/2018 | Agenda | Helper: collection_select e Helper: path (route)
 05 | 01/11/2018 | Agenda | Helper: collection_select e Helper: path (route)
 06 | 08/11/2018 | IFTech | Aplicação com todos os recursos trabalhados
+07 | 22/11/2018 | IFTech | Relacionamento Has One
 
 ## **Dicas**
 Atualização do Node.js
