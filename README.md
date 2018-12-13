@@ -24,7 +24,7 @@ Códigos [RoR](https://rubyonrails.org/) desenvolvidos em sala de aula.
 06 | 08/11/2018 | IFTech | Aplicação com todos os recursos trabalhados
 07 | 22/11/2018 | IFTech | Relacionamento Has One
 08 | 06/12/2018 | IFTech | Relacionamento Has Many
-
+09 | 13/12/2018 | IFTech | Relacionamento Has Many (Student/Contacts) - Parte 1 (banco)
 
 ## **Dicas**
 Atualização do Node.js
