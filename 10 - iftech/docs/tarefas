@@ -1,0 +1,8 @@
+Aula 06/12/2018
+
+1) Criar scaffold Student
+2) Inserir referência de Student em Registration
+3) Migrar os dados de estudante de Registration -> Student
+   # Trazendo o student_id
+4) Remover as colunas de estudante em Registration
+5) Atualizar as views e os controlers	
